@@ -1,4 +1,6 @@
-# Verilog-Display-Characters
+# Verilog-Lab
+
+Displays character on the Basys3 board predefined by the switches.
 
 Code can be simulated with Iverilog or Vivado. 
 Code can be run on Basys3 Artix-7 FPGA board.
